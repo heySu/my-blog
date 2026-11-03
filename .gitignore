@@ -1,0 +1,11 @@
+node_modules/
+dist/
+database/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.vscode/
+.shots/
+database/tmp/
